@@ -1,0 +1,26 @@
+npm i @mui/core --save
+npm i @mui/icons --save
+npm i @date-io --save
+npm i @date-io/date-fns --save
+npm i @material-ui/pickers --save
+npm i @testing-library/jest-dom --save
+npm i @testing-library/react --save
+npm i @testing-library/user-event --save
+npm i ag-grid-community --save
+npm i ag-grid-enterprise --save
+npm i ag-grid-react --save
+npm i axios --save
+npm i chokidar --save
+npm i date-fns --save
+npm i date-fns --save
+npm i react --save
+npm i react-bootstrap-validation --save
+npm i react-calendar --save
+npm i react-dom --save
+npm i react-router --save
+npm i react-router-dom --save
+npm i react-scripts --save
+npm i yarn --save
+
+  
+   

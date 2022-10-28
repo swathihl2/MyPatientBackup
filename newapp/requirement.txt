@@ -1,0 +1,7 @@
+npm install @mui/icons-material
+
+
+
+npm test App.test -- --coverage --collectCoverageFrom=src/App.js
+
+SKIP_PREFLIGHT_CHECK=true
